@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.5cc8e03b.css",
-    "main.js": "/static/js/main.58bfff21.js",
-    "static/media/Montserrat-Black.woff": "/static/media/Montserrat-Black.a99d8db918ca0d83907a.woff",
-    "static/media/Montserrat-Regular.woff": "/static/media/Montserrat-Regular.3db65dc4b858f0fed4fb.woff",
-    "static/media/Montserrat-SemiBold.woff": "/static/media/Montserrat-SemiBold.197213592de7a2a62e06.woff",
-    "static/media/main-top-pic.png": "/static/media/main-top-pic.5831d08e64f610ca3a97.png",
-    "static/media/main-flag.png": "/static/media/main-flag.768781f92d027ab9cd74.png",
-    "static/media/map-bg-main.svg": "/static/media/map-bg-main.88ebbe2ffe73eaccbb40ae5fdafbd019.svg",
-    "static/media/country-bg-1.svg": "/static/media/country-bg-1.7c4109da3bad3a7d1309fe0809c1e57b.svg",
-    "static/media/arrow.svg": "/static/media/arrow.8f6e7bd53f8837f719333673e2e2fe93.svg",
-    "index.html": "/index.html",
-    "main.5cc8e03b.css.map": "/static/css/main.5cc8e03b.css.map",
-    "main.58bfff21.js.map": "/static/js/main.58bfff21.js.map"
+    "main.css": "./static/css/main.1cf7480e.css",
+    "main.js": "./static/js/main.9c1200fe.js",
+    "static/media/Montserrat-Black.woff": "./static/media/Montserrat-Black.a99d8db918ca0d83907a.woff",
+    "static/media/Montserrat-Regular.woff": "./static/media/Montserrat-Regular.3db65dc4b858f0fed4fb.woff",
+    "static/media/Montserrat-SemiBold.woff": "./static/media/Montserrat-SemiBold.197213592de7a2a62e06.woff",
+    "static/media/main-top-pic.png": "./static/media/main-top-pic.5831d08e64f610ca3a97.png",
+    "static/media/main-flag.png": "./static/media/main-flag.768781f92d027ab9cd74.png",
+    "static/media/map-bg-main.svg": "./static/media/map-bg-main.88ebbe2ffe73eaccbb40ae5fdafbd019.svg",
+    "static/media/country-bg-1.svg": "./static/media/country-bg-1.7c4109da3bad3a7d1309fe0809c1e57b.svg",
+    "static/media/arrow.svg": "./static/media/arrow.8f6e7bd53f8837f719333673e2e2fe93.svg",
+    "index.html": "./index.html",
+    "main.1cf7480e.css.map": "./static/css/main.1cf7480e.css.map",
+    "main.9c1200fe.js.map": "./static/js/main.9c1200fe.js.map"
   },
   "entrypoints": [
-    "static/css/main.5cc8e03b.css",
-    "static/js/main.58bfff21.js"
+    "static/css/main.1cf7480e.css",
+    "static/js/main.9c1200fe.js"
   ]
 }
